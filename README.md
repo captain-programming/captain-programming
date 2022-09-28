@@ -10,6 +10,12 @@
 - 🌱 I’m currently learning **MERN stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/captain-programming](https://github.com/captain-programming)
+- My indivisual projects: -
+ 1.https://62dd4a1f6f2f61666ea87906--chargebee-dk-clone.netlify.app/
+ 
+- My group Projects: -
+1.https://sephora-clone-website.netlify.app/
+2.https://a-clone-of-espncricinfo.netlify.app/
 
 - 📫 How to reach me **dineshkarde103@gmail.com**
 
