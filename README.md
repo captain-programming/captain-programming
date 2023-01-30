@@ -11,6 +11,7 @@
 - 💬 Ask me about JavaScript, React, Redux, HTML, CSS, Chakra UI, Node.js & MongoDB
 - 📫 How to reach me **dineshkarde103@gmail.com**
 - 📄 Know about my experiences https://drive.google.com/file/d/1FS-AYR0uBiDlbuN3sJbmoZG-d2i1f_lg/view?usp=sharing
+- 📄 Know more about me and my work Portfolio https://captain-programming.github.io/
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gautam-kumar-b542621a7/) 
